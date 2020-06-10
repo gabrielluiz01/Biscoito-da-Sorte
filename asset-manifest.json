@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2455373.chunk.css",
-    "main.js": "/static/js/main.25a24d05.chunk.js",
-    "main.js.map": "/static/js/main.25a24d05.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.42df1455.js",
-    "runtime-main.js.map": "/static/js/runtime-main.42df1455.js.map",
-    "static/js/2.da06ae7f.chunk.js": "/static/js/2.da06ae7f.chunk.js",
-    "static/js/2.da06ae7f.chunk.js.map": "/static/js/2.da06ae7f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c0ac13ef3188d5095e0aecf769e26242.js": "/precache-manifest.c0ac13ef3188d5095e0aecf769e26242.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e2455373.chunk.css.map": "/static/css/main.e2455373.chunk.css.map",
-    "static/js/2.da06ae7f.chunk.js.LICENSE.txt": "/static/js/2.da06ae7f.chunk.js.LICENSE.txt",
-    "static/media/biscoito.png": "/static/media/biscoito.5be460ac.png"
+    "main.css": "/Biscoito-da-Sorte/static/css/main.e2455373.chunk.css",
+    "main.js": "/Biscoito-da-Sorte/static/js/main.b87956c0.chunk.js",
+    "main.js.map": "/Biscoito-da-Sorte/static/js/main.b87956c0.chunk.js.map",
+    "runtime-main.js": "/Biscoito-da-Sorte/static/js/runtime-main.d557f991.js",
+    "runtime-main.js.map": "/Biscoito-da-Sorte/static/js/runtime-main.d557f991.js.map",
+    "static/js/2.da06ae7f.chunk.js": "/Biscoito-da-Sorte/static/js/2.da06ae7f.chunk.js",
+    "static/js/2.da06ae7f.chunk.js.map": "/Biscoito-da-Sorte/static/js/2.da06ae7f.chunk.js.map",
+    "index.html": "/Biscoito-da-Sorte/index.html",
+    "precache-manifest.aaf6281bfdfe0bab0104f1b1a670a286.js": "/Biscoito-da-Sorte/precache-manifest.aaf6281bfdfe0bab0104f1b1a670a286.js",
+    "service-worker.js": "/Biscoito-da-Sorte/service-worker.js",
+    "static/css/main.e2455373.chunk.css.map": "/Biscoito-da-Sorte/static/css/main.e2455373.chunk.css.map",
+    "static/js/2.da06ae7f.chunk.js.LICENSE.txt": "/Biscoito-da-Sorte/static/js/2.da06ae7f.chunk.js.LICENSE.txt",
+    "static/media/biscoito.png": "/Biscoito-da-Sorte/static/media/biscoito.5be460ac.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.42df1455.js",
+    "static/js/runtime-main.d557f991.js",
     "static/js/2.da06ae7f.chunk.js",
     "static/css/main.e2455373.chunk.css",
-    "static/js/main.25a24d05.chunk.js"
+    "static/js/main.b87956c0.chunk.js"
   ]
 }
